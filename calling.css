@@ -22,7 +22,7 @@ body {
   img {
     width: 100%;
     max-width: 300px;
-    /*border-radius: 50%;*/
+    border-radius: 50%;
     margin-bottom: 20px;
   }
   
